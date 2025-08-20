@@ -1,0 +1,23 @@
+[
+  {
+    "id": "adtc-1",
+    "time": "20:00",
+    "venue": "Abu Dhabi Turf Club",
+    "distance": "1600m",
+    "runners": 10
+  },
+  {
+    "id": "meydan-4",
+    "time": "21:15",
+    "venue": "Meydan Racecourse",
+    "distance": "1400m",
+    "runners": 12
+  },
+  {
+    "id": "sharjah-2",
+    "time": "22:05",
+    "venue": "Sharjah Equestrian",
+    "distance": "2000m",
+    "runners": 8
+  }
+]

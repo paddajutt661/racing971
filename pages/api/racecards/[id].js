@@ -1,0 +1,1 @@
+import races from '@/data/races.json'; import entries from '@/data/entries.json'; export default function handler(req,res){ const { id } = req.query; const race = races.find(r=>r.id===id)||null; res.status(200).json({ race, entries }); }
